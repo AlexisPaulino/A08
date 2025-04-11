@@ -1,0 +1,41 @@
+/* Speaker Image and Article Styles */
+article img {
+    float: right;
+    margin: .5em 0 1em 1em;
+    border: 1px solid black;
+}
+
+/* Section and Article Styling */
+section {
+    width: 525px;
+    float: right;
+    padding: 0 20px 20px 20px;
+}
+
+aside {
+    width: 215px;
+    float: right;
+    padding: 0 0 20px 20px;
+}
+
+aside h2 {
+    color: #800000;
+    font-size: 130%;
+    padding: .5em 0 .25em 0;
+}
+
+/* Text and List Styling */
+section ul {
+    padding: 0 0 .25em 1.25em;
+    list-style-type: circle;
+}
+
+section li {
+    padding-bottom: .35em;
+}
+
+/* Footer */
+footer {
+    background-color: #931420;
+    clear: both;
+}
